@@ -50,7 +50,10 @@ a seguinte tabela de preços.
 
 cor     preço
 
-verde   10.00
-azul    20.00
+verde 10.00
+
+azul 20.00
+
 amarelo 30.00
+
 vermelho 40.00
